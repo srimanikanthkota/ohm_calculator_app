@@ -1,6 +1,6 @@
 # Things to do before you run the React App
 - Make sure the API is already up and running
-- Open up the Terminal and Run the **npm install**
+- Open up the Terminal and run **npm install**
 - Then run **npm start**
 
 # Getting Started with Create React App
